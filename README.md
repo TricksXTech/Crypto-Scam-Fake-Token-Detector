@@ -10,7 +10,7 @@ Free & open-source tool to detect scam, fake-priced, and risky crypto tokens.
 - No backend (100% frontend)
 
 ## 🚀 Live Demo
-https://YOUR_USERNAME.github.io/crypto-scam-detector
+[https://tricksxtech.github.io/Crypto-Scam-Fake-Token-Detector/](https://tricksxtech.github.io/Crypto-Scam-Fake-Token-Detector/)
 
 ## 🧠 How It Works
 Uses public DEX data to analyze token risk instantly.
