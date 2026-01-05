@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Crypto Scam Detector</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>🛡 Crypto Scam Detector</h1>
+  <p>Detect fake price, low liquidity & risky tokens instantly.</p>
+
+  <input id="token" placeholder="Paste Token Contract Address">
+  
+  <select id="chain">
+    <option value="bsc">BSC</option>
+    <option value="eth">Ethereum</option>
+  </select>
+
+  <button onclick="scanToken()">Scan Token</button>
+
+  <div id="result"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
